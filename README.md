@@ -1,6 +1,13 @@
 # RIPPLE-CARRY-ADDER
 4-BIT RIPPLE CARRY ADDER USING FULL ADDER AND HALF ADDER
 
+![4-Bit Ripple Carry Adder_page-0001](https://github.com/user-attachments/assets/281f5342-c4f9-471a-83de-5d9d032a4420)
+![4-Bit Ripple Carry Adder_page-0002](https://github.com/user-attachments/assets/f6978ce6-dce5-4f71-b963-80d44ba587bf)
+![4-Bit Ripple Carry Adder_page-0003](https://github.com/user-attachments/assets/d06452bd-7dbe-4ebf-86b6-1337ce1c276b)
+
+
+
+
 
 RTL SCHEMATIC :
 
